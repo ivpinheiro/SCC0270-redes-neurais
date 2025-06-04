@@ -3,10 +3,14 @@ name = "scc0270-redes-neurais"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13.3"
+requires-python = ">=3.12.4"
 dependencies = [
     "ipykernel>=6.29.5",
+    "mahotas>=1.4.18",
     "matplotlib>=3.10.3",
+    "opencv-python>=4.11.0.86",
     "pandas>=2.2.3",
     "requests>=2.32.3",
+    "scikit-image>=0.25.2",
+    "tqdm>=4.67.1",
 ]
