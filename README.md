@@ -35,7 +35,9 @@ Este comando cria automaticamente o ambiente virtual e instala as bibliotecas ne
 
 O objetivo do Projeto 01 é construir um classificador binário capaz de classificar as imagens como `CT` (Tomografia Computadorizada) ou `MR` (Ressonância Magnética).  
 
-De início, no notebook `Trabalho_01_ML.ipynb` foram construídos modelos de ML clássicos baseados em técnicas de extração de características como Descritores de Texturas e Cores e em seguida, ajustou-se um KNN. Obtivemos os seguintes resultados na tarefa de classificação binária:
+De início, no notebook `Trabalho_01_ML.ipynb` foram construídos modelos de ML clássicos baseados em técnicas de extração de características como Descritores de Texturas e Cores e em seguida, ajustou-se um KNN. No notebook presente no Colab no seguinte [Notebook com treino da CNN no Colab](https://drive.google.com/drive/folders/1nnpJwP1hIiqQjFYWDabOCFGvpeqj7dPg?usp=drive_link) fez-se o fine-tuning de uma ResNet50 no dataset de treino e as predições e as métricas de avaliação foram computadas no notebook  `Trabalho_01_CNN.ipynb`.
+
+Obtivemos os seguintes resultados na tarefa de classificação binária:
 
 ## Resultados 
 
