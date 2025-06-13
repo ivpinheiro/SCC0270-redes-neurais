@@ -98,4 +98,8 @@ Obtivemos os seguintes resultados na tarefa de classificação binária:
 
 - **Prazo:** 11/06/2025
 
-(Descrição será adicionada em breve.)
+O projeto 03 refere-se à atividade extensionista que foi apresentada no dia, 11/6 no campus da USP - São Carlos no ICMC. 
+Apresentou-se o poster intitulado **Como as máquinas enxergam?** que pode ser acessado na pasta: `posters/Poster Rede Neurais - Final.pptx`
+
+![poster-image](assets/imagem_poster.png)
+
