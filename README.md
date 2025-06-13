@@ -71,6 +71,17 @@ De início, no notebook `Trabalho_01_ML.ipynb` foram construídos modelos de ML 
 | **Macro Avg**    | 0.25      | 0.50   | 0.33     | 200     |
 | **Weighted Avg** | 0.25      | 0.50   | 0.33     | 200     |
 
+### Fine-tuning ResNet50 (02 epochs) 
+
+| Class           | Precision | Recall | F1-Score | Support |
+|-----------------|-----------|--------|----------|---------|
+| MR               | 0.99      | 0.98   | 0.98     | 100     |
+| CT               | 0.98      | 0.99   | 0.99     | 100     |
+| **Accuracy**     |           |        | 0.98     | 200     |
+| **Macro Avg**    | 0.99      | 0.98   | 0.98     | 200     |
+| **Weighted Avg** | 0.99      | 0.98   | 0.98     | 200     |
+
+
 ---
 
 ### Projeto 02
