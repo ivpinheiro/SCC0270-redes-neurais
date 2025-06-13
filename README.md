@@ -34,9 +34,42 @@ Este comando cria automaticamente o ambiente virtual e instala as bibliotecas ne
 - **Prazo:** 26/06/2025
 
 O objetivo do Projeto 01 é construir um classificador binário capaz de classificar as imagens como `CT` (Tomografia Computadorizada) ou `MR` (Ressonância Magnética).  
-Como modelo baseline, serão utilizados descritores de textura e imagem clássicos para a construção do classificador.
 
-Na etapa seguinte, será realizado o *fine-tuning* de um modelo pré-treinado de visão computacional para melhorar o desempenho da classificação.
+De início, no notebook `Trabalho_01_ML.ipynb` foram construídos modelos de ML clássicos baseados em técnicas de extração de características como Descritores de Texturas e Cores e em seguida, ajustou-se um KNN. Obtivemos os seguintes resultados na tarefa de classificação binária:
+
+## Resultados 
+
+### KNN + Descritores de Textura
+
+| Class        | Precision | Recall | F1-Score | Support |
+|--------------|-----------|--------|----------|---------|
+| MR           | 0.00      | 0.00   | 0.00     | 100     |
+| CT           | 0.50      | 1.00   | 0.67     | 100     |
+| **Accuracy** |           |        | 0.50     | 200     |
+| **Macro Avg**| 0.25      | 0.50   | 0.33     | 200     |
+| **Weighted Avg** | 0.25  | 0.50   | 0.33     | 200     |
+
+
+### KNN + Descritores de Imagem
+
+| Class          | Precision | Recall | F1-Score | Support |
+|----------------|-----------|--------|----------|---------|
+| MR             | 0.60      | 0.64   | 0.62     | 100     |
+| CT             | 0.62      | 0.58   | 0.60     | 100     |
+| **Accuracy**   |           |        | 0.61     | 200     |
+| **Macro Avg**  | 0.61      | 0.61   | 0.61     | 200     |
+| **Weighted Avg**| 0.61     | 0.61   | 0.61     | 200     |
+
+
+### KNN + Descritores de Textura + Imagem
+
+| Class           | Precision | Recall | F1-Score | Support |
+|-----------------|-----------|--------|----------|---------|
+| MR               | 0.00      | 0.00   | 0.00     | 100     |
+| CT               | 0.50      | 1.00   | 0.67     | 100     |
+| **Accuracy**     |           |        | 0.50     | 200     |
+| **Macro Avg**    | 0.25      | 0.50   | 0.33     | 200     |
+| **Weighted Avg** | 0.25      | 0.50   | 0.33     | 200     |
 
 ---
 
