@@ -145,7 +145,7 @@ Foi treinado, do mesmo modo, uma ResNet50 para a classificação das 21 localida
 
 Obtivemos uma **acurácia de 57%** que é ligeiramente superior à reportada pelos autores de 52.5%.  
 Como nem todas as classes estão presentes no conjunto de teste, a tabela acima não apresenta todas as classes. 
-Percebe-se que as Localidades com menores exemplos no conjunto de treinamento apresentam menores valores de acurácia, o que é o esperado. 
+Percebe-se que as Localidades com menos exemplos disponíveis no conjunto de treinamento apresentam menores valores de acurácia, o que é o esperado. 
 Não observamos melhoras significativas com o aumento do númeto de epochs acima de 2. 
 
 ---
@@ -171,11 +171,12 @@ Abaixo a imagem do poster apresentado:
 
 ## 👥 Integrantes
 
-- Heitor Carvalho Pinheiro
-- Brunna Quatrochi  
-- Gabriela dos Santos Amaral   
-- Ivan Barbosa Pinto  
+- Brunna Quatrochi [🔗](https://www.linkedin.com/in/brunna-quatrochi/)  
+- Gabriela dos Santos Amaral [🔗](https://www.linkedin.com/in/gabriela-amaral-ga/)  
+- Heitor Carvalho Pinheiro 🐙 [GitHub](https://github.com/Heitorcp) | 🔗 [LinkedIn](https://www.linkedin.com/in/heitor-cp/) - 11833351  
+- Ivan Barbosa Pinto 🐙 [GitHub](https://github.com/ivpinheiro) | 🔗 [LinkedIn](https://www.linkedin.com/in/ivanpinheiro/)  
 - João Pedro Serpellone  
-- Leo Gianotti  
-- Matheus Chaves Silva  
+- Leo Gianotti [🔗](https://www.linkedin.com/in/leo-gianotti-48124a20a/)  
+- Matheus Chaves Silva [🔗](https://www.linkedin.com/in/matheus-chaves-silva-86425913a/)  
 - Murilo  
+
