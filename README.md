@@ -169,3 +169,13 @@ Abaixo a imagem do poster apresentado:
 
 ![poster-image](assets/imagem_poster.png)
 
+## 👥 Integrantes
+
+- Heitor Carvalho Pinheiro
+- Brunna Quatrochi  
+- Gabriela dos Santos Amaral   
+- Ivan Barbosa Pinto  
+- João Pedro Serpellone  
+- Leo Gianotti  
+- Matheus Chaves Silva  
+- Murilo  
