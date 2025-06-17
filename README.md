@@ -191,7 +191,7 @@ Atividade Extensionista no campus da USP - São Carlos (ICMC) com apresentação
 
 - Brunna Quatrochi [🔗 LinkedIn](https://www.linkedin.com/in/brunna-quatrochi/)
 - Gabriela dos Santos Amaral [🔗 LinkedIn](https://www.linkedin.com/in/gabriela-amaral-ga/)
-- Heitor Carvalho Pinheiro - 11833351 🐙 [GitHub](https://github.com/Heitorcp) | [🔗 LinkedIn](https://www.linkedin.com/in/heitor-cp/)
+- Heitor Carvalho Pinheiro 🐙 [GitHub](https://github.com/Heitorcp) | [🔗 LinkedIn](https://www.linkedin.com/in/heitor-cp/)
 - Ivan Barbosa Pinto 🐙 [GitHub](https://github.com/ivpinheiro) | [🔗 LinkedIn](https://www.linkedin.com/in/ivanpinheiro/)
 - João Pedro Serpellone
 - Leo Gianotti [🔗 LinkedIn](https://www.linkedin.com/in/leo-gianotti-48124a20a/)
