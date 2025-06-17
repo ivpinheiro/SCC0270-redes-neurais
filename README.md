@@ -173,7 +173,7 @@ Abaixo a imagem do poster apresentado:
 
 - Brunna Quatrochi [🔗](https://www.linkedin.com/in/brunna-quatrochi/)  
 - Gabriela dos Santos Amaral [🔗](https://www.linkedin.com/in/gabriela-amaral-ga/)  
-- Heitor Carvalho Pinheiro 🐙 [GitHub](https://github.com/Heitorcp) | 🔗 [LinkedIn](https://www.linkedin.com/in/heitor-cp/) - 11833351  
+- Heitor Carvalho Pinheiro 🐙 [GitHub](https://github.com/Heitorcp) | 🔗 [LinkedIn](https://www.linkedin.com/in/heitor-cp/) 
 - Ivan Barbosa Pinto 🐙 [GitHub](https://github.com/ivpinheiro) | 🔗 [LinkedIn](https://www.linkedin.com/in/ivanpinheiro/)  
 - João Pedro Serpellone  
 - Leo Gianotti [🔗](https://www.linkedin.com/in/leo-gianotti-48124a20a/)  
