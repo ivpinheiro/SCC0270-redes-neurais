@@ -1,8 +1,8 @@
-# SCC0270-redes-neurais
+# 🧠 SCC0270 - Redes Neurais
 
 Repositório com os projetos da disciplina **SCC0270 - Redes Neurais e Aprendizado Profundo**, oferecida pelo ICMC - USP São Carlos, 2025.
 
-## Configurando o projeto
+## 🔧 Configuração do Ambiente
 
 Este projeto utiliza o gerenciador de ambientes e dependências [`uv`](https://github.com/astral-sh/uv).  
 Para configurar o ambiente corretamente, siga os passos abaixo:
@@ -24,6 +24,16 @@ uv sync
 ```
 
 Este comando cria automaticamente o ambiente virtual e instala as bibliotecas necessárias.
+
+---
+
+## 📂 Organização do Repositório
+
+- `data/` — 📦 Dados utilizados nos projetos  
+- `notebooks/` — 📒 Notebooks de desenvolvimento e análise  
+- `model/` - 🔧 Modelos ResNet50
+- `posters/` — 🖼️ Material gráfico (pôsteres e apresentações)  
+- `assets/` — 📁 Arquivos auxiliares como imagens usadas no README  
 
 ---
 
@@ -60,9 +70,15 @@ Essa estruturação de dados facilita o uso direto para o treinamento e fine-tun
 
 O código-fonte do projeto e os dados utilizados para teste e treinamento estão **disponíveis gratuitamente** nos repositórios públicos indicados no artigo original.
 
-## Projeto 01
+## 🚀 Projeto 01
 
-- **Prazo:** 26/06/2025
+📅 **Prazo:** 21/06/2025  
+
+**Tarefas:**  
+
+- 🔍 Classificador binário de **Modalidade** (`CT` ou `MR`)  
+- 🧠 Classificador multi-classe de **Localidade** (21 classes)  
+
 
 O objetivo do Projeto 01 é construir um classificador binário capaz de classificar as imagens como `CT` (Tomografia Computadorizada) ou `MR` (Ressonância Magnética) e também um classificador multi-classe para classificar as Localidades associadas a cada imagem. São 21 Localidades disponíveis: `Chest, Pulmonary`, `Genitourinary`, `Head and Neck`, `Cardiovascular`, `Brain and Neuro`, `Abdomen`, `Spine`, `Eye and Orbit`, `Gastrointestinal`, `Vascular`, `Endocrine`, `Musculoskeletal`, `Pathology`, `Generalized`, `Hematopoietic`, `Dental, Oral, or Tooth`, `Nerve, central`, `Breast and Mammography`, `Bethesda, MD`, `Ophthalmology`, `Nerve, peripheral`.
 
@@ -150,33 +166,34 @@ Não observamos melhoras significativas com o aumento do númeto de epochs acima
 
 ---
 
-### Projeto 02
+## 🚧 Projeto 02
 
-- **Prazo:** 07/07/2025
-
-(Descrição será adicionada em breve.)
+📅 **Prazo:** 07/07/2025  
+🔄 Descrição em desenvolvimento  
 
 ---
 
-### Projeto 03
+## 🎯 Projeto 03
 
-- **Prazo:** 11/06/2025
+📅 **Prazo:** 11/06/2025  
 
-O projeto 03 refere-se à atividade extensionista que foi apresentada no dia, 11/6 no campus da USP - São Carlos no ICMC. 
-Apresentou-se o poster intitulado **Como as máquinas enxergam?** que pode ser acessado na pasta: `posters/Poster Rede Neurais - Final.pptx`
+Atividade Extensionista no campus da USP - São Carlos (ICMC) com apresentação do pôster:  
+🖼️ **"Como as máquinas enxergam?"**  
 
-Abaixo a imagem do poster apresentado: 
+**Arquivo:** `posters/Poster Rede Neurais - Final.pptx`  
 
-![poster-image](assets/imagem_poster.png)
+**Imagem do Pôster**  
+![poster-image](assets/imagem_poster.png)  
+
+---
 
 ## 👥 Integrantes
 
-- Brunna Quatrochi [🔗](https://www.linkedin.com/in/brunna-quatrochi/)  
-- Gabriela dos Santos Amaral [🔗](https://www.linkedin.com/in/gabriela-amaral-ga/)  
-- Heitor Carvalho Pinheiro 🐙 [GitHub](https://github.com/Heitorcp) | 🔗 [LinkedIn](https://www.linkedin.com/in/heitor-cp/) 
-- Ivan Barbosa Pinto 🐙 [GitHub](https://github.com/ivpinheiro) | 🔗 [LinkedIn](https://www.linkedin.com/in/ivanpinheiro/)  
-- João Pedro Serpellone  
-- Leo Gianotti [🔗](https://www.linkedin.com/in/leo-gianotti-48124a20a/)  
-- Matheus Chaves Silva [🔗](https://www.linkedin.com/in/matheus-chaves-silva-86425913a/)  
-- Murilo  
-
+- Brunna Quatrochi [🔗 LinkedIn](https://www.linkedin.com/in/brunna-quatrochi/)
+- Gabriela dos Santos Amaral [🔗 LinkedIn](https://www.linkedin.com/in/gabriela-amaral-ga/)
+- Heitor Carvalho Pinheiro - 11833351 🐙 [GitHub](https://github.com/Heitorcp) | [🔗 LinkedIn](https://www.linkedin.com/in/heitor-cp/)
+- Ivan Barbosa Pinto 🐙 [GitHub](https://github.com/ivpinheiro) | [🔗 LinkedIn](https://www.linkedin.com/in/ivanpinheiro/)
+- João Pedro Serpellone
+- Leo Gianotti [🔗 LinkedIn](https://www.linkedin.com/in/leo-gianotti-48124a20a/)
+- Matheus Chaves Silva [🔗 LinkedIn](https://www.linkedin.com/in/matheus-chaves-silva-86425913a/)
+- Murilo
