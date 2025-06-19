@@ -196,4 +196,4 @@ Atividade Extensionista no campus da USP - São Carlos (ICMC) com apresentação
 - João Pedro Serpellone
 - Leo Gianotti [🔗 LinkedIn](https://www.linkedin.com/in/leo-gianotti-48124a20a/)
 - Matheus Chaves Silva [🔗 LinkedIn](https://www.linkedin.com/in/matheus-chaves-silva-86425913a/)
-- Murilo
+- Murilo Valentim Zabott
