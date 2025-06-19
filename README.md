@@ -162,7 +162,7 @@ Foi treinado, do mesmo modo, uma ResNet50 para a classificação das 21 localida
 Obtivemos uma **acurácia de 57%** que é ligeiramente superior à reportada pelos autores de 52.5%.  
 Como nem todas as classes estão presentes no conjunto de teste, a tabela acima não apresenta todas as classes. 
 Percebe-se que as Localidades com menos exemplos disponíveis no conjunto de treinamento apresentam menores valores de acurácia, o que é o esperado. 
-Não observamos melhoras significativas com o aumento do númeto de epochs acima de 2. 
+Não observamos melhoras significativas com o aumento do número de epochs acima de 2. 
 
 ---
 
