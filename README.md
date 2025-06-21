@@ -190,7 +190,7 @@ Atividade Extensionista no campus da USP - São Carlos (ICMC) com apresentação
 ## 👥 Integrantes
 
 - Brunna Quatrochi [🔗 LinkedIn](https://www.linkedin.com/in/brunna-quatrochi/)
-- Gabriela dos Santos Amaral [🔗 LinkedIn](https://www.linkedin.com/in/gabriela-amaral-ga/)
+- Gabriela dos Santos Amaral 🐙 [GitHub](https://github.com/GabrielaSAmaral) | [🔗 LinkedIn](https://www.linkedin.com/in/gabriela-amaral-ga/)
 - Heitor Carvalho Pinheiro 🐙 [GitHub](https://github.com/Heitorcp) | [🔗 LinkedIn](https://www.linkedin.com/in/heitor-cp/)
 - Ivan Barbosa Pinto 🐙 [GitHub](https://github.com/ivpinheiro) | [🔗 LinkedIn](https://www.linkedin.com/in/ivanpinheiro/)
 - João Pedro Serpellone
