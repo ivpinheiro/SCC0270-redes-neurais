@@ -202,7 +202,6 @@ Durante as 30 épocas, observou-se uma **queda consistente nas perdas de treino 
 
 O modelo alcançou uma **acurácia total de 78%**, superando a baseline de 52.5% reportada no artigo original. Abaixo estão os principais resultados por classe:
 
-```markdown
 | Classe                    | Precision | Recall | F1-Score | Suporte |
 |---------------------------|-----------|--------|----------|---------|
 | Brain and Neuro           | 0.80      | 0.97   | 0.88     | 522     |
@@ -218,12 +217,9 @@ O modelo alcançou uma **acurácia total de 78%**, superando a baseline de 52.5%
 | Abdomen                   | 1.00      | 0.10   | 0.17     | 42      |
 | Vascular                  | 0.82      | 0.27   | 0.41     | 66      |
 | Classes com suporte < 10  | 0.00      | 0.00   | 0.00     | -       |
-
-|                           |           |        |          |         |
 | **Acurácia total**        |           |        | **0.78** | 1653    |
 | **Média Macro**           | 0.47      | 0.36   | 0.37     |         |
 | **Média Ponderada**       | 0.76      | 0.78   | 0.74     |         |
-```
 
 > 📌 **Análise:**
 >
